@@ -1,0 +1,17 @@
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\bin\Debug\Veteriner_web.exe.config
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\bin\Debug\Veteriner_web.exe
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\bin\Debug\Veteriner_web.pdb
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.csproj.AssemblyReference.cache
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.Properties.Resources.resources
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.csproj.GenerateResource.cache
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.csproj.CoreCompileInputs.cache
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.exe
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.pdb
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.FrmKullaniciGiris.resources
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.FrmAnaSayfa.resources
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.FrmKayitEkrani.resources
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.FrmKullaniciSsayfasi.resources
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.FrmPersonelGiriş.resources
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.FrmPersonelSayfasi.resources
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.FrmYöneticiSayfasi.resources
+D:\C#Projects\demo\Bitirme_Projesi\Veteriner_web\obj\Debug\Veteriner_web.FrmYöneticiPersonel.resources
