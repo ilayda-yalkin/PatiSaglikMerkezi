@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\",
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\pati\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|d:\\c#projects\\demo\\bitirme_projesi\\veteriner_web\\frmkayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|c:\\users\\asus\\desktop\\pati\\frmkayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmkayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|d:\\c#projects\\demo\\bitirme_projesi\\veteriner_web\\frmpersonelgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmpersonelgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmpersonelgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|d:\\c#projects\\demo\\bitirme_projesi\\veteriner_web\\frmkullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmkullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmkullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|d:\\c#projects\\demo\\bitirme_projesi\\veteriner_web\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|d:\\c#projects\\demo\\bitirme_projesi\\veteriner_web\\frmpersonelsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmpersonelsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmpersonelsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\frmpersonelsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmpersonelsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmpersonelsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\frmy\u00F6neticipersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmy\u00F6neticipersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmy\u00F6neticipersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\frmy\u00F6neticipersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmy\u00F6neticipersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmy\u00F6neticipersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\frmy\u00F6neticisayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmy\u00F6neticisayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmy\u00F6neticisayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\frmkullanicissayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmkullanicissayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmkullanicissayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\frmkullanicissayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmkullanicissayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmkullanicissayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\frmy\u00F6neticisayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|C:\\Users\\asus\\Desktop\\pati\\frmy\u00F6neticisayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E299F23-8C70-4A0F-853C-79738CA977D6}|Veteriner_web.csproj|solutionrelative:frmy\u00F6neticisayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -68,21 +68,19 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmPersonelGiri\u015F.cs [Design]",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmPersonelGiri\u015F.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmPersonelGiri\u015F.cs",
               "RelativeDocumentMoniker": "FrmPersonelGiri\u015F.cs",
               "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmPersonelGiri\u015F.cs [Design]",
-              "RelativeToolTip": "FrmPersonelGiri\u015F.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:07:09.894Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-26T13:07:09.894Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmKayitEkrani.cs [Design]",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmKayitEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmKayitEkrani.cs",
               "RelativeDocumentMoniker": "FrmKayitEkrani.cs",
-              "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmKayitEkrani.cs [Design]",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\pati\\FrmKayitEkrani.cs [Design]",
               "RelativeToolTip": "FrmKayitEkrani.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T13:06:22.078Z",
@@ -92,35 +90,31 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FrmKullaniciGiris.cs [Design]",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmKullaniciGiris.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmKullaniciGiris.cs",
               "RelativeDocumentMoniker": "FrmKullaniciGiris.cs",
               "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmKullaniciGiris.cs [Design]",
-              "RelativeToolTip": "FrmKullaniciGiris.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:54:59.367Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-26T12:54:59.367Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FrmAnaSayfa.cs",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmAnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmAnaSayfa.cs",
               "RelativeDocumentMoniker": "FrmAnaSayfa.cs",
-              "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\pati\\FrmAnaSayfa.cs",
               "RelativeToolTip": "FrmAnaSayfa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:54:13.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T12:54:13.875Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FrmKullaniciSsayfasi.cs [Design]",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmKullaniciSsayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmKullaniciSsayfasi.cs",
               "RelativeDocumentMoniker": "FrmKullaniciSsayfasi.cs",
               "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmKullaniciSsayfasi.cs [Design]",
-              "RelativeToolTip": "FrmKullaniciSsayfasi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T16:19:42.122Z"
             },
@@ -128,9 +122,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "FrmY\u00F6neticiSayfasi.cs",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmY\u00F6neticiSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmY\u00F6neticiSayfasi.cs",
               "RelativeDocumentMoniker": "FrmY\u00F6neticiSayfasi.cs",
-              "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmY\u00F6neticiSayfasi.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\pati\\FrmY\u00F6neticiSayfasi.cs",
               "RelativeToolTip": "FrmY\u00F6neticiSayfasi.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAQwGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,10 +134,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FrmY\u00F6neticiSayfasi.cs [Design]",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmY\u00F6neticiSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmY\u00F6neticiSayfasi.cs",
               "RelativeDocumentMoniker": "FrmY\u00F6neticiSayfasi.cs",
               "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmY\u00F6neticiSayfasi.cs [Design]",
-              "RelativeToolTip": "FrmY\u00F6neticiSayfasi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T20:02:24.772Z"
             },
@@ -151,23 +144,21 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FrmPersonelSayfasi.cs",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmPersonelSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmPersonelSayfasi.cs",
               "RelativeDocumentMoniker": "FrmPersonelSayfasi.cs",
-              "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmPersonelSayfasi.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\pati\\FrmPersonelSayfasi.cs",
               "RelativeToolTip": "FrmPersonelSayfasi.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAIwIEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:51:15.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T20:51:15.68Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FrmPersonelSayfasi.cs [Design]",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmPersonelSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmPersonelSayfasi.cs",
               "RelativeDocumentMoniker": "FrmPersonelSayfasi.cs",
               "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmPersonelSayfasi.cs [Design]",
-              "RelativeToolTip": "FrmPersonelSayfasi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T20:43:54.78Z"
             },
@@ -175,21 +166,19 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FrmAnaSayfa.cs [Design]",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmAnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmAnaSayfa.cs",
               "RelativeDocumentMoniker": "FrmAnaSayfa.cs",
               "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmAnaSayfa.cs [Design]",
-              "RelativeToolTip": "FrmAnaSayfa.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:11:52.744Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-07T14:11:52.744Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FrmY\u00F6neticiPersonel.cs",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmY\u00F6neticiPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmY\u00F6neticiPersonel.cs",
               "RelativeDocumentMoniker": "FrmY\u00F6neticiPersonel.cs",
-              "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmY\u00F6neticiPersonel.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\pati\\FrmY\u00F6neticiPersonel.cs",
               "RelativeToolTip": "FrmY\u00F6neticiPersonel.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAQwIgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,10 +188,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FrmY\u00F6neticiPersonel.cs [Design]",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmY\u00F6neticiPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmY\u00F6neticiPersonel.cs",
               "RelativeDocumentMoniker": "FrmY\u00F6neticiPersonel.cs",
               "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmY\u00F6neticiPersonel.cs [Design]",
-              "RelativeToolTip": "FrmY\u00F6neticiPersonel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T13:51:10.259Z"
             },
@@ -210,9 +198,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "FrmKullaniciSsayfasi.cs",
-              "DocumentMoniker": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmKullaniciSsayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\pati\\FrmKullaniciSsayfasi.cs",
               "RelativeDocumentMoniker": "FrmKullaniciSsayfasi.cs",
-              "ToolTip": "D:\\C#Projects\\demo\\Bitirme_Projesi\\Veteriner_web\\FrmKullaniciSsayfasi.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\pati\\FrmKullaniciSsayfasi.cs",
               "RelativeToolTip": "FrmKullaniciSsayfasi.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAgwJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
